@@ -1,5 +1,8 @@
 package com.cheng.simplemvp;
 
+/**
+ * 用户数据
+ */
 public class User {
     private String name;
     private int id;
